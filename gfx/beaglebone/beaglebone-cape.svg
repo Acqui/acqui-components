@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="255.375"
+   height="193.46875"
+   id="svg2991"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="beaglebone-cape.svg">
+  <defs
+     id="defs2993" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="157.65681"
+     inkscape:cy="133.70604"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-paths="false"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="827"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="2.7755576e-17"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     units="in" />
+  <metadata
+     id="metadata2996">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-237.60345,-280.89656)">
+    <g
+       id="board">
+      <path
+         inkscape:connector-curvature="0"
+         id="boardoutline"
+         d="m 238.10345,281.39656 0,54.59375 22.375,0 0,70.15625 -22.375,0 0,67.71875 80.59375,0 130.84375,0 c 23.78404,0 42.9375,-19.15346 42.9375,-42.9375 l 0,-106.59375 c 0,-23.78404 -19.15346,-42.9375 -42.9375,-42.9375 l -211.4375,0 z"
+         style="fill:#338040;fill-opacity:0.5" />
+      <rect
+         y="282.93933"
+         x="248.39815"
+         height="18.382627"
+         width="207.39798"
+         id="pinguide1"
+         style="fill:none;stroke:#338040;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.5;stroke-dasharray:none" />
+      <rect
+         style="fill:none;stroke:#338040;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.5;stroke-dasharray:none"
+         id="pinguide2"
+         width="207.39798"
+         height="18.382627"
+         x="248.39815"
+         y="453.94049" />
+      <rect
+         y="395.49048"
+         x="441.17786"
+         height="45.273342"
+         width="46.788692"
+         id="usbconnector"
+         style="fill:none;stroke:#338040;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.5;stroke-dasharray:none" />
+      <rect
+         y="425.32758"
+         x="430.26495"
+         height="19.849062"
+         width="6.8644104"
+         id="capacitor1"
+         style="fill:none;stroke:#338040;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:0.5;stroke-dasharray:none" />
+      <path
+         transform="matrix(1.5120503,0,0,1.5120503,231.98008,120.19465)"
+         d="m 128.5,210.76186 a 6.75,6.75 0 1 1 -13.5,0 6.75,6.75 0 1 1 13.5,0 z"
+         sodipodi:ry="6.75"
+         sodipodi:rx="6.75"
+         sodipodi:cy="210.76186"
+         sodipodi:cx="121.75"
+         id="capacitor2"
+         style="color:#000000;fill:none;stroke:#338040;stroke-width:0.9920305;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.50196078;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="silkscreen">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ffffff;stroke-opacity:1"
+         d="m 238.10345,281.39656 0,54.59375 22.375,0 0,70.15625 -22.375,0 0,67.71875 80.59375,0 130.84375,0 c 23.78404,0 42.9375,-19.15346 42.9375,-42.9375 l 0,-106.59375 c 0,-23.78404 -19.15346,-42.9375 -42.9375,-42.9375 l -211.4375,0 z"
+         id="outline" />
+    </g>
+  </g>
+</svg>
