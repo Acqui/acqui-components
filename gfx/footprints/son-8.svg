@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="10.681974" height="14.173229" viewBox="0 0 118.6886 157.48032">
+  <desc>
+    <referenceFile>SO08_pcb.svg</referenceFile>
+  </desc>
+  <g id="copper1">
+  <rect
+     width="12.598425"
+     height="27.559053"
+     x="14.745881"
+     y="-1.4560692e-06"
+     id="connector7pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="12.598424"
+     height="27.559053"
+     x="40.33643"
+     y="5.219651e-06"
+     id="connector6pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="12.598424"
+     height="27.559053"
+     x="65.926979"
+     y="5.219651e-06"
+     id="connector5pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="12.598424"
+     height="27.559053"
+     x="91.517532"
+     y="4.2659767e-06"
+     id="connector4pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="12.598424"
+     height="27.559053"
+     x="14.745881"
+     y="129.92126"
+     id="connector0pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="12.598424"
+     height="27.559053"
+     x="40.33643"
+     y="129.92126"
+     id="connector1pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="12.598424"
+     height="27.559053"
+     x="65.926979"
+     y="129.92126"
+     id="connector2pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="12.598424"
+     height="27.559053"
+     x="91.517525"
+     y="129.92126"
+     id="connector3pad"
+     style="fill:#f7bd13;stroke:none" />
+  </g>
+  <g
+     transform="translate(5.7458813,-59.440947)"
+     id="silkscreen">
+    <line
+       y1="74.290131"
+       x1="-2.8976307"
+       y2="202.25836"
+       x2="-2.8976307"
+       id="line28"
+       style="stroke:#ffffff;stroke-width:5.69650126;stroke-linecap:round" />
+    <circle
+       cx="25"
+       cy="185.5"
+       r="5.6535401"
+       transform="translate(-1.8622881,-13.841925)"
+       id="circle30"
+       style="fill:none;stroke:#ffffff;stroke-width:8" />
+    <line
+       y1="74.290138"
+       x1="110.09447"
+       y2="202.25836"
+       x2="110.09447"
+       id="line28-5"
+       style="stroke:#ffffff;stroke-width:5.69650126;stroke-linecap:round" />
+  </g>
+</svg>

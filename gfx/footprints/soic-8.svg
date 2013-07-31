@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="20.003563" height="30.689999" viewBox="0 0 222.26181 341">
+  <desc>
+      <referenceFile>SOIC-14_pcb.svg</referenceFile>
+  </desc>
+  <g id="copper1">
+  <rect
+     width="26"
+     height="80"
+     x="23.114189"
+     y="261"
+     id="connector0pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="26"
+     height="80"
+     x="73.114189"
+     y="261"
+     id="connector1pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="26"
+     height="80"
+     x="123.11419"
+     y="261"
+     id="connector2pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="26"
+     height="80"
+     x="173.1142"
+     y="261"
+     id="connector3pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="26"
+     height="80"
+     x="173.1142"
+     y="0"
+     id="connector4pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="26"
+     height="80"
+     x="123.11419"
+     y="0"
+     id="connector5pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="26"
+     height="80"
+     x="73.114189"
+     y="0"
+     id="connector6pad"
+     style="fill:#f7bd13;stroke:none" />
+  <rect
+     width="26"
+     height="80"
+     x="23.114189"
+     y="0"
+     id="connector7pad"
+     style="fill:#f7bd13;stroke:none" />
+  </g>
+  <g id="silkscreen">
+  <line
+     style="stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="line32"
+     x2="17.346323"
+     y2="93.874001"
+     x1="203.72952"
+     y1="93.874001" />
+  <path
+     d="m 207.05219,247.126 a 13.1811,13.1811 0 0 0 11.062,-15"
+     id="path34"
+     style="fill:none;stroke:#ffffff;stroke-width:8" />
+  <path
+     d="M 19.11419,93.874 A 17.0788,17.0787 0 0 0 4.1141896,112.811"
+     id="path36"
+     style="fill:none;stroke:#ffffff;stroke-width:8" />
+  <path
+     d="m 218.11419,108.874 a 14.9961,14.9961 0 0 0 -15,-15"
+     id="path38"
+     style="fill:none;stroke:#ffffff;stroke-width:8" />
+  <path
+     d="M 4.1141896,236.062 A 13.1732,13.1732 0 0 0 19.11419,247.126"
+     id="path40"
+     style="fill:none;stroke:#ffffff;stroke-width:8" />
+  <line
+     style="stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="line42"
+     x2="206.92909"
+     y2="247.12601"
+     x1="17.358046"
+     y1="247.12601" />
+  <line
+     style="stroke:#ffffff;stroke-width:8;stroke-linecap:round"
+     id="line44"
+     x2="218.1142"
+     y2="108.874"
+     x1="218.1142"
+     y1="232.12601" />
+  <path
+     d="m 6.1141896,196.5 a 25,25 0 0 0 0,-50"
+     id="path46"
+     style="fill:none;stroke:#ffffff;stroke-width:8" />
+  <line
+     style="stroke:#ffffff;stroke-width:8;stroke-linecap:round"
+     id="line48"
+     x2="4.1141896"
+     y2="146.5"
+     x1="4.1141896"
+     y1="113.311" />
+  <line
+     style="stroke:#ffffff;stroke-width:8;stroke-linecap:round"
+     id="line50"
+     x2="4.1141896"
+     y2="196.5"
+     x1="4.1141896"
+     y1="236.062" />
+  </g>
+</svg>
