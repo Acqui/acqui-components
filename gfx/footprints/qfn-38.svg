@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="27.637701" version="1.2"  height="20.551273" viewBox="0 0 307.08559 228.34747">
+    <desc >
+        <referenceFile >QFN-32_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.1"  id="copper1">
+        <g  transform="matrix(0,1,-1,0,277.58644,147.61029)">
+            <g >
+                <g gorn="0.1.0.0.0"  id="g9" stroke-width="0">
+                    <g gorn="0.1.0.0.0.0"  id="g11" stroke-width="0">
+                        <rect width="31.496099" x="49.240101" y="207.024" fill="#f7bd13" gorn="0.1.0.0.0.0.0"  height="11.2047" stroke="none" id="connector1pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="31.496099" x="3.469447e-18" y="49.515766" fill="#f7bd13" gorn="0.1.1"  height="11.2047" stroke="none" id="connector31pad"/>
+        <g  transform="matrix(0,-1,1,0,147.60944,179.16129)">
+            <g >
+                <g gorn="0.1.2.0.0"  id="g15" stroke-width="0">
+                    <g gorn="0.1.2.0.0.0"  id="g17" stroke-width="0">
+                        <rect width="31.496099" x="147.66499" y="10.1732" fill="#f7bd13" gorn="0.1.2.0.0.0.0"  height="11.2047" stroke="none" id="connector24pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,1,-1,0,297.27144,127.92529)">
+            <g >
+                <g gorn="0.1.3.0.0"  id="g20" stroke-width="0">
+                    <g gorn="0.1.3.0.0.0"  id="g22" stroke-width="0">
+                        <rect width="31.496099" x="68.925102" y="207.024" fill="#f7bd13" gorn="0.1.3.0.0.0.0"  height="11.2047" stroke="none" id="connector2pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-1,1,0,68.870042,100.42129)">
+            <g >
+                <g gorn="0.1.4.0.0"  id="g25" stroke-width="0">
+                    <g gorn="0.1.4.0.0.0"  id="g27" stroke-width="0">
+                        <rect width="31.496099" x="68.925102" y="10.1732" fill="#f7bd13" gorn="0.1.4.0.0.0.0"  height="11.2047" stroke="none" id="connector28pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,1,-1,0,316.95544,108.24029)">
+            <g >
+                <g gorn="0.1.5.0.0"  id="g30" stroke-width="0">
+                    <g gorn="0.1.5.0.0.0"  id="g32" stroke-width="0">
+                        <rect width="31.496099" x="88.6101" y="207.024" fill="#f7bd13" gorn="0.1.5.0.0.0.0"  height="11.2047" stroke="none" id="connector3pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="31.496099" x="3.469447e-18" y="128.25578" fill="#f7bd13" gorn="0.1.6"  height="11.2047" stroke="none" id="connector35pad"/>
+        <g  transform="matrix(0,1,-1,0,336.64144,88.555186)">
+            <g >
+                <g gorn="0.1.7.0.0"  id="g36" stroke-width="0">
+                    <g gorn="0.1.7.0.0.0"  id="g38" stroke-width="0">
+                        <rect width="31.496099" x="108.295" y="207.024" fill="#f7bd13" gorn="0.1.7.0.0.0.0"  height="11.2047" stroke="none" id="connector4pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-1,1,0,108.24044,139.79229)">
+            <g >
+                <g gorn="0.1.8.0.0"  id="g41" stroke-width="0">
+                    <g gorn="0.1.8.0.0.0"  id="g43" stroke-width="0">
+                        <rect width="31.496099" x="108.295" y="10.1732" fill="#f7bd13" gorn="0.1.8.0.0.0.0"  height="11.2047" stroke="none" id="connector26pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,1,-1,0,356.32644,68.870086)">
+            <g >
+                <g gorn="0.1.9.0.0"  id="g46" stroke-width="0">
+                    <g gorn="0.1.9.0.0.0"  id="g48" stroke-width="0">
+                        <rect width="31.496099" x="127.98" y="207.024" fill="#f7bd13" gorn="0.1.9.0.0.0.0"  height="11.2047" stroke="none" id="connector5pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-1,1,0,29.500042,61.051186)">
+            <g >
+                <g gorn="0.1.10.0.0"  id="g51" stroke-width="0">
+                    <g gorn="0.1.10.0.0.0"  id="g53" stroke-width="0">
+                        <rect width="31.496099" x="29.555099" y="10.1732" fill="#f7bd13" gorn="0.1.10.0.0.0.0"  height="11.2047" stroke="none" id="connector30pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,1,-1,0,376.01144,49.185086)">
+            <g >
+                <g gorn="0.1.11.0.0"  id="g56" stroke-width="0">
+                    <g gorn="0.1.11.0.0.0"  id="g58" stroke-width="0">
+                        <rect width="31.496099" x="147.66499" y="207.024" fill="#f7bd13" gorn="0.1.11.0.0.0.0"  height="11.2047" stroke="none" id="connector6pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="31.496099" x="3.469447e-18" y="88.885864" fill="#f7bd13" gorn="0.1.12"  height="11.2047" stroke="none" id="connector33pad"/>
+        <g  transform="matrix(0,1,-1,0,395.69644,29.499986)">
+            <g >
+                <g gorn="0.1.13.0.0"  id="g62" stroke-width="0">
+                    <g gorn="0.1.13.0.0.0"  id="g64" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="207.024" fill="#f7bd13" gorn="0.1.13.0.0.0.0"  height="11.2047" stroke="none" id="connector7pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="31.496099" x="3.469447e-18" y="167.62578" fill="#f7bd13" gorn="0.1.14"  height="11.2047" stroke="none" id="connector37pad"/>
+        <g  transform="matrix(-1,0,0,-1,503.9636,356.32777)">
+            <g >
+                <g gorn="0.1.15.0.0"  id="g68" stroke-width="0">
+                    <g gorn="0.1.15.0.0.0"  id="g70" stroke-width="0">
+                        <rect width="31.496099" x="196.87801" y="177.496" fill="#f7bd13" gorn="0.1.15.0.0.0.0"  height="11.2047" stroke="none" id="connector12pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-1,1,0,127.92544,159.47729)">
+            <g >
+                <g gorn="0.1.16.0.0"  id="g73" stroke-width="0">
+                    <g gorn="0.1.16.0.0.0"  id="g75" stroke-width="0">
+                        <rect width="31.496099" x="127.98" y="10.1732" fill="#f7bd13" gorn="0.1.16.0.0.0.0"  height="11.2047" stroke="none" id="connector25pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1,0,0,-1,503.9636,316.95677)">
+            <g >
+                <g gorn="0.1.17.0.0"  id="g78" stroke-width="0">
+                    <g gorn="0.1.17.0.0.0"  id="g80" stroke-width="0">
+                        <rect width="31.496099" x="196.87801" y="157.812" fill="#f7bd13" gorn="0.1.17.0.0.0.0"  height="11.2047" stroke="none" id="connector13pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-1,1,0,88.555042,120.10629)">
+            <g >
+                <g gorn="0.1.18.0.0"  id="g83" stroke-width="0">
+                    <g gorn="0.1.18.0.0.0"  id="g85" stroke-width="0">
+                        <rect width="31.496099" x="88.6101" y="10.1732" fill="#f7bd13" gorn="0.1.18.0.0.0.0"  height="11.2047" stroke="none" id="connector27pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1,0,0,-1,503.9636,277.58777)">
+            <g >
+                <g gorn="0.1.19.0.0"  id="g88" stroke-width="0">
+                    <g gorn="0.1.19.0.0.0"  id="g90" stroke-width="0">
+                        <rect width="31.496099" x="196.87801" y="138.12601" fill="#f7bd13" gorn="0.1.19.0.0.0.0"  height="11.2047" stroke="none" id="connector14pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-1,1,0,49.185042,80.736286)">
+            <g >
+                <g gorn="0.1.20.0.0"  id="g93" stroke-width="0">
+                    <g gorn="0.1.20.0.0.0"  id="g95" stroke-width="0">
+                        <rect width="31.496099" x="49.240101" y="10.1732" fill="#f7bd13" gorn="0.1.20.0.0.0.0"  height="11.2047" stroke="none" id="connector29pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1,0,0,-1,503.9636,238.21777)">
+            <g >
+                <g gorn="0.1.21.0.0"  id="g98" stroke-width="0">
+                    <g gorn="0.1.21.0.0.0"  id="g100" stroke-width="0">
+                        <rect width="31.496099" x="196.87801" y="118.441" fill="#f7bd13" gorn="0.1.21.0.0.0.0"  height="11.2047" stroke="none" id="connector15pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(-1,0,0,-1,503.9636,198.84677)">
+            <g >
+                <g gorn="0.1.22.0.0"  id="g104" stroke-width="0">
+                    <g gorn="0.1.22.0.0.0"  id="g106" stroke-width="0">
+                        <rect width="31.496099" x="196.87801" y="98.756104" fill="#f7bd13" gorn="0.1.22.0.0.0.0"  height="11.2047" stroke="none" id="connector16pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="31.496099" x="3.469447e-18" y="69.20076" fill="#f7bd13" gorn="0.1.23"  height="11.2047" stroke="none" id="connector32pad"/>
+        <g  transform="matrix(-1,0,0,-1,503.9636,159.47577)">
+            <g >
+                <g gorn="0.1.24.0.0"  id="g110" stroke-width="0">
+                    <g gorn="0.1.24.0.0.0"  id="g112" stroke-width="0">
+                        <rect width="31.496099" x="196.87801" y="79.070999" fill="#f7bd13" gorn="0.1.24.0.0.0.0"  height="11.2047" stroke="none" id="connector17pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="31.496099" x="3.469447e-18" y="108.57076" fill="#f7bd13" gorn="0.1.25"  height="11.2047" stroke="none" id="connector34pad"/>
+        <g  transform="matrix(-1,0,0,-1,503.9636,120.10577)">
+            <g >
+                <g gorn="0.1.26.0.0"  id="g116" stroke-width="0">
+                    <g gorn="0.1.26.0.0.0"  id="g118" stroke-width="0">
+                        <rect width="31.496099" x="196.87801" y="59.386002" fill="#f7bd13" gorn="0.1.26.0.0.0.0"  height="11.2047" stroke="none" id="connector18pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="31.496099" x="3.469447e-18" y="147.94177" fill="#f7bd13" gorn="0.1.27"  height="11.2047" stroke="none" id="connector36pad"/>
+        <g  transform="matrix(0,-1,1,0,167.29644,198.84629)">
+            <g >
+                <g gorn="0.1.28.0.0"  id="g127" stroke-width="0">
+                    <g gorn="0.1.28.0.0.0"  id="g129" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="10.1732" fill="#f7bd13" gorn="0.1.28.0.0.0.0"  height="11.2047" stroke="none" id="connector23pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,1,-1,0,257.90144,167.29629)">
+            <g >
+                <g gorn="0.1.29.0.0"  id="g132" stroke-width="0">
+                    <g gorn="0.1.29.0.0.0"  id="g134" stroke-width="0">
+                        <rect width="31.496099" x="29.555099" y="207.024" fill="#f7bd13" gorn="0.1.29.0.0.0.0"  height="11.2047" stroke="none" id="connector0pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,0.99999996,-0.99999996,0,415.38147,29.499975)">
+            <g >
+                <g gorn="0.1.30.0.0"  id="g62-2" stroke-width="0">
+                    <g gorn="0.1.30.0.0.0"  id="g64-1" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="207.024" fill="#f7bd13" gorn="0.1.30.0.0.0.0"  height="11.2047" stroke="none" id="connector8pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-0.99999996,0.99999996,0,186.98147,198.84628)">
+            <g >
+                <g gorn="0.1.31.0.0"  id="g127-6" stroke-width="0">
+                    <g gorn="0.1.31.0.0.0"  id="g129-9" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="10.1732" fill="#f7bd13" gorn="0.1.31.0.0.0.0"  height="11.2047" stroke="none" id="connector22pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,0.99999996,-0.99999996,0,435.06651,29.499964)">
+            <g >
+                <g gorn="0.1.32.0.0"  id="g62-2-1" stroke-width="0">
+                    <g gorn="0.1.32.0.0.0"  id="g64-1-3" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="207.024" fill="#f7bd13" gorn="0.1.32.0.0.0.0"  height="11.2047" stroke="none" id="connector9pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-0.99999996,0.99999996,0,206.66652,198.84628)">
+            <g >
+                <g gorn="0.1.33.0.0"  id="g127-6-0" stroke-width="0">
+                    <g gorn="0.1.33.0.0.0"  id="g129-9-8" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="10.1732" fill="#f7bd13" gorn="0.1.33.0.0.0.0"  height="11.2047" stroke="none" id="connector21pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,0.99999996,-0.99999996,0,454.75155,29.499953)">
+            <g >
+                <g gorn="0.1.34.0.0"  id="g62-2-1-5" stroke-width="0">
+                    <g gorn="0.1.34.0.0.0"  id="g64-1-3-7" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="207.024" fill="#f7bd13" gorn="0.1.34.0.0.0.0"  height="11.2047" stroke="none" id="connector10pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-0.99999996,0.99999996,0,226.35156,198.84628)">
+            <g >
+                <g gorn="0.1.35.0.0"  id="g127-6-0-8" stroke-width="0">
+                    <g gorn="0.1.35.0.0.0"  id="g129-9-8-3" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="10.1732" fill="#f7bd13" gorn="0.1.35.0.0.0.0"  height="11.2047" stroke="none" id="connector20pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,0.99999996,-0.99999996,0,474.43659,29.499942)">
+            <g >
+                <g gorn="0.1.36.0.0"  id="g62-2-1-5-3" stroke-width="0">
+                    <g gorn="0.1.36.0.0.0"  id="g64-1-3-7-4" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="207.024" fill="#f7bd13" gorn="0.1.36.0.0.0.0"  height="11.2047" stroke="none" id="connector11pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g  transform="matrix(0,-0.99999996,0.99999996,0,246.0366,198.84628)">
+            <g >
+                <g gorn="0.1.37.0.0"  id="g127-6-0-8-6" stroke-width="0">
+                    <g gorn="0.1.37.0.0.0"  id="g129-9-8-3-6" stroke-width="0">
+                        <rect width="31.496099" x="167.35001" y="10.1732" fill="#f7bd13" gorn="0.1.37.0.0.0.0"  height="11.2047" stroke="none" id="connector19pad"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <rect width="202.75592" x="52.452763" y="51.878235" fill="#f7bd13" gorn="0.1.38"  height="124.01575" stroke="none" id="connector38pad"/>
+    </g>
+    <g gorn="0.2"  id="silkscreen">
+        <line gorn="0.2.0"  stroke="#ffffff" style="stroke-linecap:round" id="line146" y1="31.495985" y2="15.747887" x1="15.748042" stroke-width="5" x2="15.748042"/>
+        <line gorn="0.2.1"  stroke="#ffffff" style="stroke-linecap:round" id="line148" y1="15.747887" y2="15.747887" x1="15.748042" stroke-width="5" x2="31.49604"/>
+        <line gorn="0.2.2"  stroke="#ffffff" style="stroke-linecap:round" id="line150" y1="15.747887" y2="15.747887" x1="275.59061" stroke-width="5" x2="291.33862"/>
+        <line gorn="0.2.3"  stroke="#ffffff" style="stroke-linecap:round" id="line152" y1="15.747887" y2="31.495985" x1="291.33862" stroke-width="5" x2="291.33862"/>
+        <line gorn="0.2.4"  stroke="#ffffff" style="stroke-linecap:round" id="line154" y1="196.8503" y2="212.59929" x1="291.33862" stroke-width="5" x2="291.33862"/>
+        <line gorn="0.2.5"  stroke="#ffffff" style="stroke-linecap:round" id="line156" y1="212.59929" y2="212.59929" x1="291.33862" stroke-width="5" x2="275.59061"/>
+        <line gorn="0.2.6"  stroke="#ffffff" style="stroke-linecap:round" id="line158" y1="212.59929" y2="212.59929" x1="31.49604" stroke-width="5" x2="15.748042"/>
+        <line gorn="0.2.7"  stroke="#ffffff" style="stroke-linecap:round" id="line160" y1="212.59929" y2="196.8503" x1="15.748042" stroke-width="5" x2="15.748042"/>
+        <line gorn="0.2.8"  stroke="#ffffff" style="stroke-linecap:round" id="line162" y1="196.8503" y2="212.59929" x1="15.748042" stroke-width="5" x2="31.49604"/>
+    </g>
+</svg>

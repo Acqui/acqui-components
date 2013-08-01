@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.266in" x="0in" version="1.2" y="0in"  height="0.331315in" viewBox="0 0 6.7564 8.4154" baseProfile="tiny">
+    <desc>
+        <referenceFile>sparkfun-poweric_sot223_pcb.svg</referenceFile>
+    </desc>
+    <g gorn="0.0"  id="copper1">
+        <rect width="1.2192" x="0.4572" y="6.1802" fill="#F7BD13" gorn="0.0.0"  connectorname="1" height="2.2352" stroke="none" id="connector0pad" stroke-linecap="round" stroke-width="0"/>
+        <rect width="1.2192" x="2.7686" y="6.1802" fill="#F7BD13" gorn="0.0.1"  connectorname="2" height="2.2352" stroke="none" id="connector1pad" stroke-linecap="round" stroke-width="0"/>
+        <rect width="1.2192" x="5.08" y="6.1802" fill="#F7BD13" gorn="0.0.2"  connectorname="3" height="2.2352" stroke="none" id="connector2pad" stroke-linecap="round" stroke-width="0"/>
+        <rect width="3.6" x="1.5782" y="0" fill="#F7BD13" gorn="0.0.3"  connectorname="4" height="2.2" stroke="none" id="connector3pad" stroke-linecap="round" stroke-width="0"/>
+        <g gorn="0.0.4"  id="copper0"/>
+    </g>
+    <g gorn="0.1"  id="silkscreen">
+        <line class="other"  stroke="#f0f0f0" stroke-linecap="round" y1="2.548" x1="6.6548" y2="5.85" stroke-width="0.2032" x2="6.6548"/>
+        <line class="other"  stroke="#f0f0f0" stroke-linecap="round" y1="5.85" x1="6.6548" y2="5.85" stroke-width="0.2032" x2="0.1016"/>
+        <line class="other"  stroke="#f0f0f0" stroke-linecap="round" y1="5.85" x1="0.1016" y2="2.548" stroke-width="0.2032" x2="0.1016"/>
+        <line class="other"  stroke="#f0f0f0" stroke-linecap="round" y1="2.548" x1="0.1016" y2="2.548" stroke-width="0.2032" x2="6.6548"/>
+    </g>
+</svg>
