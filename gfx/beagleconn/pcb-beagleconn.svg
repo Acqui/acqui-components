@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="49.606289"
+   height="35.374115"
+   viewBox="0 0 551.181 393.04571"
+   id="svg2">
+  <desc>
+    <referenceFile>smd_single_row_pin_header_5_100mil_pcb.svg</referenceFile>
+  </desc>
+<g id="copper1">
+  <rect
+     width="51.181099"
+     height="196.8504"
+     x="0"
+     y="196.19209"
+     id="connector0pin"
+     style="fill:#f7bf13;fill-opacity:1;stroke:none" />
+  <rect
+     width="51.181099"
+     height="196.8504"
+     x="99.999901"
+     y="196.19533"
+     id="connector1pin"
+     style="fill:#f7bf13;fill-opacity:1;stroke:none" />
+  <rect
+     width="51.181099"
+     height="196.8504"
+     x="199.99989"
+     y="196.19209"
+     id="connector2pin"
+     style="fill:#f7bf13;fill-opacity:1;stroke:none" />
+  <rect
+     width="51.181099"
+     height="196.8504"
+     x="299.99991"
+     y="196.19533"
+     id="connector3pin"
+     style="fill:#f7bf13;fill-opacity:1;stroke:none" />
+  <rect
+     width="51.181099"
+     height="196.8504"
+     x="399.99991"
+     y="196.19209"
+     id="connector4pin"
+     style="fill:#f7bf13;fill-opacity:1;stroke:none" />
+  <rect
+     width="51.181099"
+     height="196.8504"
+     x="499.99991"
+     y="196.19209"
+     id="connector4pin-0"
+     style="fill:#f7bf13;fill-opacity:1;stroke:none" />
+  </g>
+  <g id="silkscreen">
+  <text
+     x="-134.06248"
+     y="47.458721"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text3012"
+     xml:space="preserve"
+     style="font-size:60;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA"><tspan
+       x="-134.06248"
+       y="47.458721"
+       id="tspan3014">GND</tspan></text>
+  <text
+     x="-134.06248"
+     y="442.98199"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text3012-4"
+     xml:space="preserve"
+     style="font-size:60;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA"><tspan
+       x="-134.06248"
+       y="442.98199"
+       id="tspan3014-1">INT</tspan></text>
+  <text
+     x="-134.06248"
+     y="344.10117"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text3012-4-0"
+     xml:space="preserve"
+     style="font-size:60;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA"><tspan
+       x="-134.06248"
+       y="344.10117"
+       id="tspan3014-1-9">SDA</tspan></text>
+  <text
+     x="-134.06248"
+     y="245.22035"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text3012-4-4"
+     xml:space="preserve"
+     style="font-size:60;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA"><tspan
+       x="-134.06248"
+       y="245.22035"
+       id="tspan3014-1-2">SCL</tspan></text>
+  <text
+     x="-134.06248"
+     y="146.33952"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text3012-4-5"
+     xml:space="preserve"
+     style="font-size:60;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA"><tspan
+       x="-134.06248"
+       y="146.33952"
+       id="tspan3014-1-1">3V3</tspan></text>
+  <text
+     x="-134.0625"
+     y="542.98206"
+     transform="matrix(0,-1,1,0,0,0)"
+     id="text3012-4-6"
+     xml:space="preserve"
+     style="font-size:60;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:OCRA;-inkscape-font-specification:OCRA"><tspan
+       x="-134.0625"
+       y="542.98206"
+       id="tspan3014-1-10">SEL</tspan></text>
+  </g>
+</svg>

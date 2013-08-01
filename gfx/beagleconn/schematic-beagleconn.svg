@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="111.37023"
+   height="152.1619"
+   viewBox="0 0 89.09618 121.72909"
+   id="svg2">
+  <desc>
+    <referenceFile>generic_female_pin_header_5_100mil_schem.svg</referenceFile>
+  </desc>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="17.943216"
+     y2="7.7058802"
+     x1="1.0952129"
+     y1="7.7058802"
+     id="connector0pin"
+     gorn="0.0.0" />
+  <rect
+     width="0.99800003"
+     height="1.997"
+     x="0.097219422"
+     y="6.7078791"
+     id="connector0terminal" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline10"
+     points="61.641,16.406 46.597,9.722 61.641,3.034"
+     transform="translate(0.09721594,-2.0161211)" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="16.549215"
+     y2="7.7058802"
+     x1="47.316216"
+     y1="7.7058802"
+     id="line"
+     gorn="0.0.3" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="17.943216"
+     y2="28.965679"
+     x1="1.0952129"
+     y1="28.965679"
+     id="connector1pin"
+     gorn="0.0.4" />
+  <rect
+     width="0.99800003"
+     height="1.997"
+     x="0.097219422"
+     y="27.967682"
+     id="connector1terminal" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline15"
+     points="61.641,37.6658 46.597,30.9818 61.641,24.2938"
+     transform="translate(0.09721594,-2.0161211)" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="16.549215"
+     y2="28.965679"
+     x1="47.316216"
+     y1="28.965679"
+     id="line17"
+     gorn="0.0.7" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="17.943216"
+     y2="50.225578"
+     x1="1.0952129"
+     y1="50.225578"
+     id="connector2pin"
+     gorn="0.0.8" />
+  <rect
+     width="0.99800003"
+     height="1.997"
+     x="0.097219422"
+     y="49.227577"
+     id="connector2terminal" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline21"
+     points="61.641,58.9257 46.597,52.2417 61.641,45.5537"
+     transform="translate(0.09721594,-2.0161211)" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="16.549215"
+     y2="50.225578"
+     x1="47.316216"
+     y1="50.225578"
+     id="line23"
+     gorn="0.0.11" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="17.943216"
+     y2="71.485382"
+     x1="1.0952129"
+     y1="71.485382"
+     id="connector3pin"
+     gorn="0.0.12" />
+  <rect
+     width="0.99800003"
+     height="1.997"
+     x="0.097219422"
+     y="70.487381"
+     id="connector3terminal" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline27"
+     points="61.641,80.1855 46.597,73.5015 61.641,66.8135"
+     transform="translate(0.09721594,-2.0161211)" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="16.549215"
+     y2="71.485382"
+     x1="47.316216"
+     y1="71.485382"
+     id="line29"
+     gorn="0.0.15" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="17.943216"
+     y2="92.745277"
+     x1="1.0952129"
+     y1="92.745277"
+     id="connector4pin"
+     gorn="0.0.16" />
+  <rect
+     width="0.99800003"
+     height="1.997"
+     x="0.097219422"
+     y="91.747276"
+     id="connector4terminal" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline33"
+     points="61.641,101.445 46.597,94.7614 61.641,88.0734"
+     transform="translate(0.09721594,-2.0161211)" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     x2="16.549215"
+     y2="92.745277"
+     x1="47.316216"
+     y1="92.745277"
+     id="line35"
+     gorn="0.0.19" />
+  <text
+     x="65.858681"
+     y="10.820695"
+     id="text3018"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><tspan
+       x="65.858681"
+       y="10.820695"
+       id="tspan3020">GND</tspan></text>
+  <text
+     x="65.858681"
+     y="32.159389"
+     id="text3018-4"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><tspan
+       x="65.858681"
+       y="32.159389"
+       id="tspan3020-8">3V3</tspan></text>
+  <text
+     x="65.858681"
+     y="53.498089"
+     id="text3018-5"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><tspan
+       x="65.858681"
+       y="53.498089"
+       id="tspan3020-6">SCL</tspan></text>
+  <text
+     x="65.858681"
+     y="74.836777"
+     id="text3018-7"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><tspan
+       x="65.858681"
+       y="74.836777"
+       id="tspan3020-3">SDA</tspan></text>
+  <text
+     x="65.858681"
+     y="96.175476"
+     id="text3018-2"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><tspan
+       x="65.858681"
+       y="96.175476"
+       id="tspan3020-5">INT</tspan></text>
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round"
+     x2="17.943216"
+     y2="114.00512"
+     x1="1.0952129"
+     y1="114.00512"
+     id="connector5pin"
+     gorn="0.0.16" />
+  <rect
+     width="0.99800003"
+     height="1.9969999"
+     x="0.097219422"
+     y="113.00712"
+     id="connector5terminal" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="polyline33-2"
+     points="61.641,101.445 46.597,94.7614 61.641,88.0734"
+     transform="translate(0.09721594,19.243721)" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round"
+     x2="16.549215"
+     y2="114.00512"
+     x1="47.316216"
+     y1="114.00512"
+     id="line35-2"
+     gorn="0.0.19" />
+  <text
+     x="65.858673"
+     y="117.43532"
+     id="text3018-2-7"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><tspan
+       x="65.858673"
+       y="117.43532"
+       id="tspan3020-5-9">SEL</tspan></text>
+</svg>

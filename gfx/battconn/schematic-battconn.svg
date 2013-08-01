@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="110.25853"
+   height="45.828983"
+   viewBox="0 0 88.206818 36.663058"
+   id="svg2">
+  <desc>
+    <referenceFile>generic_female_pin_header_5_100mil_schem.svg</referenceFile>
+  </desc>
+  <line
+     gorn="0.1"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="connector0pin"
+     y1="7.7056837"
+     y2="7.7056837"
+     x1="1.0995979"
+     x2="17.947601" />
+  <rect
+     width="0.99800003"
+     height="1.997"
+     x="0.10160447"
+     y="6.7076826"
+     id="connector0terminal" />
+  <g
+     transform="translate(0.10160099,-2.0163178)"
+     id="g9">
+    <g
+       id="g11">
+      <g
+         id="g13">
+        <g
+           id="g15">
+          <polyline
+             points="61.641,16.406 46.597,9.722 61.641,3.034"
+             gorn="0.3.0.0.0.0"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             id="polyline10" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <line
+     gorn="0.4"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="line"
+     y1="7.7056837"
+     y2="7.7056837"
+     x1="47.320602"
+     x2="16.5536" />
+  <line
+     gorn="0.5"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="connector1pin"
+     y1="28.965483"
+     y2="28.965483"
+     x1="1.0995979"
+     x2="17.947601" />
+  <rect
+     width="0.99800003"
+     height="1.997"
+     x="0.10160447"
+     y="27.967485"
+     id="connector1terminal" />
+  <g
+     transform="translate(0.10160099,-2.0163178)"
+     id="g21">
+    <g
+       id="g23">
+      <g
+         id="g25">
+        <g
+           id="g27">
+          <polyline
+             points="61.641,37.6658 46.597,30.9818 61.641,24.2938"
+             gorn="0.7.0.0.0.0"
+             style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+             id="polyline15" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <line
+     gorn="0.8"
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round"
+     id="line17"
+     y1="28.965483"
+     y2="28.965483"
+     x1="47.320602"
+     x2="16.5536" />
+  <g
+     transform="translate(0.00438505,-1.966679e-4)"
+     id="text3018"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><text
+       x="65.858681"
+       y="10.820695"
+       id="tspan3020">GND</text>
+</g>  <g
+     transform="translate(0.00438505,-1.966679e-4)"
+     id="text3018-4"
+     xml:space="preserve"
+     style="font-size:10;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DroidSans;-inkscape-font-specification:DroidSans"><text
+       x="65.858681"
+       y="32.159389"
+       id="tspan3020-8">9V</text>
+</g></svg>
