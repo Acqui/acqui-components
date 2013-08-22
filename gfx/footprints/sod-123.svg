@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="18.492447" version="1.1" gorn="0"  height="8.5920315" viewBox="0 0 521.89792 242.48622" id="svg2">
+    <desc  id="desc3">
+        <referenceFile  id="referenceFile5">SMD_Diode_MelfDO213AB.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata22">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" rdf:about="">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+                <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs13"/>
+    <g  transform="translate(0.06556518,-39.242754)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.3.0.0.0.0"  id="copper1">
+                        <rect width="0" x="95.065567" y="115.75725" fill="none" gorn="0.3.0.0.0.0.0"  height="0" id="connector0terminal" stroke-width="0"/>
+                        <rect width="150" x="20" y="60" fill="#f7bf13" gorn="0.3.0.0.0.0.1"  height="200" stroke="none" fill-opacity="1" id="connector0pin"/>
+                        <rect width="150" x="350.66663" y="60" fill="#f7bf13" gorn="0.3.0.0.0.0.2"  height="200" stroke="none" fill-opacity="1" id="connector1pin"/>
+                        <rect width="0" x="595.06555" y="115.75725" fill="none" gorn="0.3.0.0.0.0.3"  height="0" id="connector1terminal" stroke-width="0"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g  transform="translate(0.06556518,-39.242754)">
+        <g >
+            <g >
+                <g >
+                    <g gorn="0.4.0.0.0.0"  id="silkscreen">
+                        <g  transform="matrix(28.222222,0,0,20.90535,0,45.185188)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g gorn="0.4.0.0.0.0.0.0.0.0.0"  id="g14">
+                                            <rect width="1.7716535" x="7.0866141" y="0.70866144" fill="#ffffff" gorn="0.4.0.0.0.0.0.0.0.0.0.0"  height="9.5669289" stroke="none" style="fill-rule:nonzero;" fill-opacity="1" id="rect3601"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g  transform="matrix(21.341185,0,0,22.087955,0,39.176034)">
+                            <g >
+                                <g >
+                                    <g >
+                                        <g gorn="0.4.0.0.0.0.1.0.0.0.0"  id="g17">
+                                            <rect width="24.094488" x="0.17716536" y="0.17716536" stroke-opacity="1" fill="none" gorn="0.4.0.0.0.0.1.0.0.0.0.0"  height="10.629921" stroke="#ffffff" style="stroke-miterlimit:4;stroke-dasharray:none" id="rect3603" stroke-width="0.35433072"/>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
